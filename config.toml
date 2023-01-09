@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Test hugo site'
+description = 'This site was build by using [hugo templates](https://github.com/pages-hugoconf-2022/hugo-pages-template)'
+theme = "ananke"
